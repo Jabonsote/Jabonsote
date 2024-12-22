@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Computer Science student 🌟</h1>
+<h1 align="center">Hi 👋, I'm Data Scientist 🌟</h1>
 <h3 align="center">Deep Learning, Machine Learning, and Algorithms</h3>
 
 - 👨‍💻 All of my projects are available at [Jabonsote.github.io](Jabonsote.github.io)
