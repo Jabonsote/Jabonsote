@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, Aspiring Data Scientist 🌟</h1>
 <h3 align="center">Deep Learning, Machine Learning, and Algorithms</h3>
 
-- 👨‍💻 All of my projects are available at [Jabonsote.github.io](Jabonsote.github.io)
-
 - 📝 I regularly write articles on [https://medium.com/@javier.ramirez.gonzalez](https://medium.com/@javier.ramirez.gonzalez)
 
-- 📫 How to reach me **javier.ramirez.gonzalez@uabc.edu.mx**
+- 📫 How to reach me **javier.ramirez@cicese.edu.mx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
